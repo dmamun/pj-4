@@ -1,0 +1,32 @@
+h2{
+    color:black;
+    background-color: green;
+}
+p{
+    color:black;
+    background-color:pink ;
+    border:2px solid black;
+    
+}
+table,td,th{
+    border:2px solid green;
+}
+.box{
+    height:200px;
+    width:250px;
+    background-color: aquamarine;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin:30px;
+    border:2px solid black;
+    text-alignment:center;
+    border-radius:3px;
+    box-shadow:10px 20px 8px 5px rgb(94, 60, 187)
+
+}
+#bg-image{
+    background-image: url(images/prainting.jpg);
+    height:200px;
+    width:200px;
+    opacity:0.4;
+}
